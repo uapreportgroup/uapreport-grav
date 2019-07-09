@@ -1,0 +1,5 @@
+---
+title: 'Przykładowy moduł'
+---
+
+hello 
