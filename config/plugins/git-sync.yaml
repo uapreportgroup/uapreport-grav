@@ -6,7 +6,7 @@ folders:
   - themes
   - config
 sync:
-  on_save: true
+  on_save: false
   on_delete: true
   on_media: true
   cron_enable: true
