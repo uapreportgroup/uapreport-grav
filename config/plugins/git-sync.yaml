@@ -1,0 +1,30 @@
+enabled: true
+folders:
+  - pages
+  - data
+  - plugins
+  - themes
+  - config
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: true
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/uapreportgroup/uapreport-grav.git'
+user: uapreportgroup
+webhook: /_git-sync-2e2965867d08
+webhook_enabled: '1'
+webhook_secret: 8a1f32186a6b10b5a68b2e21c238eb25e419fa64cb465842
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
+password: gitsync-def50200babb57b3c7597ea344710fb037b328a35d0c2304e149841a967ac0dd3bfb086947f8391b522e27a44da5c57cf6e6edcbc51b9e90d84dc5197c11723026bc5ad812f6c34785fc3c0f883baaaa158765b8801b326d356351916ac69f
