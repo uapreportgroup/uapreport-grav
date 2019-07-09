@@ -12,4 +12,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-Raporty o incydentach z Polski.
+Raporty o incydentach na terytorium Polski.
