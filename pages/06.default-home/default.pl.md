@@ -1,6 +1,6 @@
 ---
 title: '[pomoc] Podgląd formatowania tekstu'
-published: true
+published: false
 body_classes: 'title-center title-h1h2'
 ---
 
