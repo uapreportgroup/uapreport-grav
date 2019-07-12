@@ -7,6 +7,10 @@ feed:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices vel ante sit amet iaculis. Donec vitae dolor a orci vehicula consectetur. Ut pellentesque maximus laoreet. Pellentesque elementum erat et tellus sollicitudin, non venenatis mi molestie. Aenean ultricies, tellus vel pellentesque elementum, mauris eros mattis urna, et convallis lectus metus ut nunc. Sed nulla tellus, sodales quis consequat non, varius vel lorem. Curabitur metus tortor, posuere vel dolor dignissim, porttitor semper lectus.
 
+![Tom DeLonge photo by LeAnn Mueller](Tom%20DeLonge.jpg) 
+
+<sup>Tom DeLonge photo by LeAnn Mueller</sup>
+
 Ut feugiat, lacus eu tempus facilisis, eros nisi aliquam nunc, ut finibus nunc neque in nisi. Aenean pretium imperdiet enim, nec vestibulum massa iaculis in. Sed nec volutpat lorem, eu consequat risus. Praesent feugiat sollicitudin ipsum vitae tincidunt. Vivamus bibendum consectetur ipsum eget dictum. Cras et commodo sem, a ultricies nisl. Mauris nec tempus risus, placerat vestibulum ligula. Ut at ex orci. Cras finibus accumsan ante, ac consequat sapien tempus vitae. Donec congue metus id sem vulputate vulputate. Sed finibus, ipsum a efficitur iaculis, lectus risus auctor turpis, id feugiat augue nulla id nibh. Aliquam erat volutpat.
 
 Quisque posuere mauris in pretium tempus. Donec massa velit, convallis in convallis at, tincidunt sit amet diam. Nulla consequat mattis libero, quis sodales nisi varius non. Donec tincidunt elementum lorem. Phasellus ut felis nisl. Sed dictum erat sem, id dapibus urna mattis quis. Phasellus finibus et metus at convallis. Donec quis est urna. Sed euismod suscipit est mollis varius. Ut mollis, arcu eget ultrices blandit, massa mauris volutpat eros, vel volutpat purus ipsum et tortor. Proin aliquet libero quis tristique luctus. Proin consequat libero eu elit pretium, a pellentesque turpis imperdiet. In at eleifend dui, quis consectetur leo. Vestibulum a rutrum leo, id ultrices risus. Sed sollicitudin id tortor vel aliquam.
