@@ -1,6 +1,8 @@
 ---
 title: 'Tom DeLonge na History Channel'
 visible: false
+feed:
+    limit: 10
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices vel ante sit amet iaculis. Donec vitae dolor a orci vehicula consectetur. Ut pellentesque maximus laoreet. Pellentesque elementum erat et tellus sollicitudin, non venenatis mi molestie. Aenean ultricies, tellus vel pellentesque elementum, mauris eros mattis urna, et convallis lectus metus ut nunc. Sed nulla tellus, sodales quis consequat non, varius vel lorem. Curabitur metus tortor, posuere vel dolor dignissim, porttitor semper lectus.
