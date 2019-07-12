@@ -1,8 +1,8 @@
 ---
 title: Newsy
-media_order: nasa-NuE8Nu3otjo-unsplash_smaller.jpg
+media_order: 'nasa-NuE8Nu3otjo-unsplash_smaller.jpg,nasa-1lfI7wkGWZ4-unsplash@0,33x.jpg,billy-huynh-W8KTS-mhFUE-unsplash-smaller@0,5x.jpg'
 hero_classes: text-light
-hero_image: nasa-NuE8Nu3otjo-unsplash_smaller.jpg
+hero_image: 'nasa-1lfI7wkGWZ4-unsplash@0,33x.jpg'
 content:
     items:
         - '@self.children'

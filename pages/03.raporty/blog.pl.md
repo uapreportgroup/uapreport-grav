@@ -1,6 +1,7 @@
 ---
 title: Raporty
 blog_url: /reports
+show_sidebar: true
 content:
     items:
         - '@self.descendants'

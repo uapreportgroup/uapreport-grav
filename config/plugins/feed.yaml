@@ -1,0 +1,6 @@
+enabled: true
+limit: 10
+description: Uap.report
+lang: pl-pl
+length: 500
+enable_json_feed: false
