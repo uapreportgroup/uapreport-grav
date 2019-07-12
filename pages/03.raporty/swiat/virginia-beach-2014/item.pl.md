@@ -1,5 +1,7 @@
 ---
 title: 'Virginia Beach 2014'
+feed:
+    limit: 10
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Nunc non blandit massa enim. Augue interdum velit euismod in pellentesque. Nisi vitae suscipit tellus mauris a diam maecenas. Velit laoreet id donec ultrices. Pharetra sit amet aliquam id diam maecenas ultricies mi. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. In nisl nisi scelerisque eu ultrices vitae auctor. Adipiscing diam donec adipiscing tristique risus nec feugiat. Nulla pharetra diam sit amet nisl suscipit. Id ornare arcu odio ut sem nulla pharetra diam sit. Volutpat ac tincidunt vitae semper quis lectus nulla at. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Arcu non odio euismod lacinia at. Purus semper eget duis at tellus at. Ac turpis egestas sed tempus urna. Dictum varius duis at consectetur lorem. Fames ac turpis egestas integer eget.
