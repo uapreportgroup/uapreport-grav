@@ -14,6 +14,8 @@ content:
     filter:
         published: true
         type: item
+feed:
+    limit: 10
 ---
 
 Lista raportów napisanych przez naszych ekspertów.
