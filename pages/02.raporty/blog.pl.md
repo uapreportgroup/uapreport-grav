@@ -1,5 +1,6 @@
 ---
 title: Raporty
+published: false
 blog_url: /reports
 show_sidebar: true
 content:

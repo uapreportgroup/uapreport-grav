@@ -18,4 +18,4 @@ feed:
 
 # UAP Report
 
-Witamy na naszej stronie.
+Wiarygodne źródło informacji na temat fenomenu UAP.
