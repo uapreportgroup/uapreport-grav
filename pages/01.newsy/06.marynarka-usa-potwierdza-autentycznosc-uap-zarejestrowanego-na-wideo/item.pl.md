@@ -3,8 +3,8 @@ title: 'Marynarka USA potwierdza autentyczność UAP zarejestrowanego na wideo'
 date: '20-09-2019 12:42'
 taxonomy:
     tag:
-        - 'United States Department of Defense'
-        - 'Nimitz Encounters'
+        - 'Ministerstwo Obrony USA'
+        - Nimitz
 feed:
     limit: 10
 ---
