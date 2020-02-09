@@ -1,1 +1,3 @@
-{  }
+git-sync:
+  state: success
+  last-run: 1581289207
