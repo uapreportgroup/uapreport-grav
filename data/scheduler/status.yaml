@@ -1,7 +1,6 @@
 git-sync:
-  state: failure
-  last-run: 1584918002
-  error: null
+  state: success
+  last-run: 1584964807
 cache-clear:
   state: success
   last-run: 1584932409
